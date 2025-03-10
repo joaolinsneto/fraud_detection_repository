@@ -1,0 +1,1 @@
+# Arquivo de detecção de fraude
